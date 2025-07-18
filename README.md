@@ -42,7 +42,7 @@
 
 
 <h2 align="center">📂 Latest Repos Worked On</h2>
-<p align="center">
+<!-- <p align="center"> -->
   <div align="center">
     <a href=https://github.com/Ali-Yehya/HTTP-Server>
       <img src=https://github-readme-stats.vercel.app/api/pin/?username=Ali-Yehya&repo=HTTP-Server&theme=bear&show_icons=true&border_color=EFBF04&border_radius=30 alt=/>
@@ -51,7 +51,7 @@
       <img src=https://github-readme-stats.vercel.app/api/pin/?username=mohammadyehya&repo=Tauri_NextJS_Template&theme=bear&show_icons=true&border_color=EFBF04&border_radius=30 alt=/>
     </a>
   </div>
-</p>
+<!-- </p> -->
 
 <!-- h2 align="center">✍️ Random Dev Quote</h2 -->
 <!-- p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></p -->
