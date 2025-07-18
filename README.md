@@ -47,10 +47,8 @@
 <!-- (Automatically Updates via Github Actions) -->
 </p>
 <div align="center">
-<!-- LAST_WORKED_ON_REPOS -->
 <a href=https://github.com/MohammadYehya/OpenGL_GLUT_Template><img src=https://github-readme-stats.vercel.app/api/pin/?username=mohammadyehya&repo=OpenGL_GLUT_Template&theme=bear&show_icons=true&border_color=EFBF04&border_radius=30 alt=/></a>
 <a href=https://github.com/MohammadYehya/Tauri_NextJS_Template><img src=https://github-readme-stats.vercel.app/api/pin/?username=mohammadyehya&repo=Tauri_NextJS_Template&theme=bear&show_icons=true&border_color=EFBF04&border_radius=30 alt=/></a>
-<!-- END_LAST_WORKED_ON_REPOS -->
 </div>
 </p>
 
