@@ -1,1 +1,60 @@
-# ali-yehya.github.io
+<!-- <img src="https://github.com/MohammadYehya/MohammadYehya/blob/main/working.gif" alt="" /> -->
+<h1 align="center">Hi 👋, I'm Ali Yehya</h1>
+<!-- <img align='right' src="./gitassets/pondfish.gif" height="240px"/> -->
+<p align="left">
+
+- 🤖 I have a mild obsession with System Design and AI. If there's a new tech out there, I’m probably already trying to break it or make it better.
+- 🚀 Future Goals:
+  - 🧠 Develop Generative AI-based Saas (because why not let AI do all the work?)
+  - 🎮 Create an open-source game engine (because reinventing the wheel is my idea of fun).
+  - ⚡ Learn Rust to make things blazingly fast and unreasonably secure.
+- 🖥️ I use Arch btw! mostly so I can fix problems I never had in the first place...
+
+</p>
+
+<p align="center">
+  <!-- <img src="https://visitcount.itsvg.in/api?id=MohammadYehya&label=Profile%20Views&color=10&icon=0&pretty=true" /> -->
+  <img src="https://komarev.com/ghpvc/?username=Ali-Yehya&color=red&base=2000&abbreviated=true" />
+</p>
+<!-- <br> -->
+<p align="center"> 
+  <a href="https://linkedin.com/in/aliyehyahayati"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin-white&logoColor=white"/></a>
+  <a href="https://ali-yehya.github.io"><img src="https://img.shields.io/badge/Portfolio-darkred?&style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>  
+  <a href="https://github.com/Ali-Yehya"><img src="https://img.shields.io/badge/Github-black?&style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href="mailto:ali.yehya.hayati@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?&style=for-the-badge&logo=gmail&logoColor=gmail"></a>
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">&nbsp;
+  <a href="https://github-readme-stats.vercel.app/api?username=Ali-Yehya&theme=bear&show_icons=true&border_color=EFBF04&rank_icon=default&border_radius=30&show=prs_merged&include_all_commits=false&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ali-Yehya&theme=bear&show_icons=true&border_color=EFBF04&rank_icon=default&border_radius=30&show=prs_merged&include_all_commits=false&count_private=true" alt="aliyehya" />  
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Yehya&theme=bear&border_color=EFBF04&border_radius=30&card_width=300&include_all_commits=true&count_private=true&layout=compact&langs_count=10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Yehya&theme=bear&border_color=EFBF04&border_radius=30&card_width=300&include_all_commits=true&count_private=true&layout=compact&langs_count=10"/>
+  </a>
+</p>
+
+<h2 align="center">💻 Tech Stack</h2>
+<p align="center">Skilled in building intelligent systems using agentic AI frameworks like LangGraph and CrewAI, RAG pipelines, and modern LLM stacks. Experienced with real-time and distributed architectures, serverless design, and integrating AI into scalable cloud-native backends using tools like Kafka and FastAPI. Comfortable working across APIs, vector search, orchestration tools, and multi-agent workflows.</p>
+<!-- <p align="center">For full list of skills, check out <a href="https://mohammadyehya.github.io/Skills">my portfolio</a>.</p> -->
+
+
+
+
+<h2 align="center">📂 Latest Repos Worked On</h2>
+<p align="center">
+<p align="center">
+<!-- (Automatically Updates via Github Actions) -->
+</p>
+<div align="center">
+<!-- LAST_WORKED_ON_REPOS -->
+<a href=https://github.com/MohammadYehya/OpenGL_GLUT_Template><img src=https://github-readme-stats.vercel.app/api/pin/?username=mohammadyehya&repo=OpenGL_GLUT_Template&theme=bear&show_icons=true&border_color=EFBF04&border_radius=30 alt=/></a>
+<a href=https://github.com/MohammadYehya/Tauri_NextJS_Template><img src=https://github-readme-stats.vercel.app/api/pin/?username=mohammadyehya&repo=Tauri_NextJS_Template&theme=bear&show_icons=true&border_color=EFBF04&border_radius=30 alt=/></a>
+<!-- END_LAST_WORKED_ON_REPOS -->
+</div>
+</p>
+
+<!-- h2 align="center">✍️ Random Dev Quote</h2 -->
+<!-- p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></p -->
+
+---
