@@ -69,8 +69,3 @@ Hi there! I'm a Computer Science undergraduate from FAST NUCES with a focus on b
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-yehya&repo=Theory-of-Automata-Project&theme=bear&show_icons=true&border_color=EFBF04&border_radius=30" alt=""/>
   </a>
 </div>
-
-<!-- h2 align="center">✍️ Random Dev Quote</h2 -->
-<!-- p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></p -->
-
----
