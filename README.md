@@ -1,15 +1,8 @@
 <!-- <img src="https://github.com/MohammadYehya/MohammadYehya/blob/main/working.gif" alt="" /> -->
 <h1 align="center">Hi 👋, I'm Ali Yehya</h1>
 <!-- <img align='right' src="./gitassets/pondfish.gif" height="240px"/> -->
-<p align="left">
-
-- 🤖 I have a mild obsession with System Design and AI. If there's a new tech out there, I’m probably already trying to break it or make it better.
-- 🚀 Future Goals:
-  - 🧠 Develop Generative AI-based Saas (because why not let AI do all the work?)
-  - 🎮 Create an open-source game engine (because reinventing the wheel is my idea of fun).
-  - ⚡ Learn Rust to make things blazingly fast and unreasonably secure.
-- 🖥️ I use Arch btw! mostly so I can fix problems I never had in the first place...
-
+<p align="center">
+Hi there! I'm a Computer Science undergraduate from FAST NUCES with a focus on building efficient, scalable, and impactful software. I enjoy working on real-world projects, and learning new technologies.
 </p>
 
 <p align="center">
@@ -35,9 +28,35 @@
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
-<p align="center">Skilled in building intelligent systems using agentic AI frameworks like LangGraph and CrewAI, RAG pipelines, and modern LLM stacks. Experienced with real-time and distributed architectures, serverless design, and integrating AI into scalable cloud-native backends using tools like Kafka and FastAPI. Comfortable working across APIs, vector search, orchestration tools, and multi-agent workflows.</p>
-<!-- <p align="center">For full list of skills, check out <a href="https://mohammadyehya.github.io/Skills">my portfolio</a>.</p> -->
-
+<p align="center">
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Script"/>
+        <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+        <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="ShadcnUI"/>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+        <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GithubPages"/>
+        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+        <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="Cmake"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 
 
 
@@ -46,8 +65,8 @@
   <a href="https://github.com/Ali-Yehya/HTTP-Server">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Yehya&repo=HTTP-Server&theme=bear&show_icons=true&border_color=EFBF04&border_radius=30" alt=""/>
   </a>
-  <a href="https://github.com/MohammadYehya/Tauri_NextJS_Template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadyehya&repo=Tauri_NextJS_Template&theme=bear&show_icons=true&border_color=EFBF04&border_radius=30" alt=""/>
+  <a href="https://github.com/Ali-Yehya/Theory-of-Automata-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-yehya&repo=Theory-of-Automata-Project&theme=bear&show_icons=true&border_color=EFBF04&border_radius=30" alt=""/>
   </a>
 </div>
 
