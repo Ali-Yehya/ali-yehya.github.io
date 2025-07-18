@@ -60,7 +60,7 @@ Hi there! I'm a Computer Science undergraduate from FAST NUCES with a focus on b
 
 
 
-<h2 align="center">📂 Latest Repos Worked On</h2>
+<h2 align="center">Some of my Work</h2>
 <div align="center">
   <a href="https://github.com/Ali-Yehya/HTTP-Server">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Yehya&repo=HTTP-Server&theme=bear&show_icons=true&border_color=EFBF04&border_radius=30" alt=""/>
